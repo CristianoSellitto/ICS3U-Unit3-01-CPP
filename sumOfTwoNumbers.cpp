@@ -4,7 +4,6 @@
 // Created in October 2022
 // A program that finds the sum of two user inputted numbers
 
-#include <cmath>
 #include <iostream>
 
 float firstNumber;
